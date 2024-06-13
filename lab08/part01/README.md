@@ -1,4 +1,4 @@
-# Лабораторная работа №8. Реализация DHCPv4
+# Лабораторная работа №8 часть 1. Реализация DHCPv4
 
 ![from_lab_description](./images/from_lab_description.png)
 
